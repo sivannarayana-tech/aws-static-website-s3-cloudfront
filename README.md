@@ -6,9 +6,11 @@ Static website hosting on AWS using Amazon S3 and CloudFront CDN
 - This project demonstrates how to host a secure, highly available, and globally accessible static website on Amazon Web Services (AWS) using Amazon S3 and Amazon CloudFront.
 
 - The goal of this project is to understand how static websites are delivered at scale using object storage and Content Delivery Networks (CDN), following AWS best practices for performance, security, and cost efficiency.
+  
 
 **Architecture Overview:**
 ![Static Website Architecture using S3 and CloudFront](static_website.png)
+
 
 **Traffic Flow:**
 
